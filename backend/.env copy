@@ -1,0 +1,5 @@
+# Pon aqui tus credenciales de la base de datos PostgreSQL
+# despues de haberlo copiado y renombrado a .env
+DB_URL=jdbc:postgresql://localhost:5432/syleal
+DB_USERNAME=tu_usuario_postgres
+DB_PASSWORD=tu_contraseña_segura

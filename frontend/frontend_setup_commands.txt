@@ -1,0 +1,38 @@
+================================================================================
+GUÍA DE CONFIGURACIÓN Y EJECUCIÓN DEL FRONTEND (React + Vite + TypeScript)
+================================================================================
+
+1. PRERREQUISITOS
+--------------------------------------------------------------------------------
+Asegúrate de tener instalado lo siguiente en tu equipo local:
+- Node.js (v18.0.0 o superior)
+- npm (v9.0.0 o superior, viene incluido con Node.js)
+- Extensiones recomendadas para VS Code:
+  * ESLint
+  * Prettier - Code formatter
+
+
+2. INSTALACIÓN DE DEPENDENCIAS
+--------------------------------------------------------------------------------
+1. Abre una terminal y navega al directorio del frontend:
+
+   cd frontend
+
+2. Instala las dependencias del proyecto:
+
+   npm install
+
+
+3. CONFIGURACIÓN DE VARIABLES DE ENTORNO (OPCIONAL)
+--------------------------------------------------------------------------------
+Copia el archivo '.env.local.ejemplo' y nombralo '.env.local'
+
+
+4. EJECUCIÓN DEL SERVIDOR DE DESARROLLO
+--------------------------------------------------------------------------------
+Inicia el servidor local de Vite:
+
+   npm run dev
+
+El frontend de desarrollo estará disponible en: http://localhost:5173
+================================================================================

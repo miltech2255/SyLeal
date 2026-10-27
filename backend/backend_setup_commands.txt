@@ -1,0 +1,45 @@
+================================================================================
+GUÍA DE CONFIGURACIÓN Y EJECUCIÓN DEL BACKEND (Spring Boot + PostgreSQL)
+================================================================================
+
+1. PRERREQUISITOS
+--------------------------------------------------------------------------------
+Asegúrate de tener instalado lo siguiente en tu equipo local:
+- Java Development Kit (JDK 25 o superior)
+- Servidor PostgreSQL (v14 o superior recomendado)
+- Extensiones recomendadas para VS Code:
+  * Extension Pack for Java
+  * Spring Boot Extension Pack
+
+
+2. CONFIGURACIÓN DE LA BASE DE DATOS
+--------------------------------------------------------------------------------
+1. Inicia el servicio de PostgreSQL en tu sistema.
+2. Abre psql, pgAdmin o tu cliente SQL preferido y ejecuta:
+   psql -U tu_usuario
+
+   CREATE DATABASE syleal;
+
+3. Configura la conexión a la base de datos:
+   Crea una copia del archivo 'application-local copy.properties' y nombralo 'application-local.properties'
+   Cambia los valores de las variables por los de tu servidor PSQL 
+
+
+3. INSTRUCCIONES DE EJECUCIÓN
+--------------------------------------------------------------------------------
+1. Abre una terminal en VS Code (`Ctrl + ~` / `Cmd + ~`) y navega al directorio
+   del backend:
+
+   cd backend
+
+2. Ejecuta la aplicación Spring Boot utilizando el script ejecutable (wrapper):
+
+   # En Linux / macOS:
+   ./mvnw spring-boot:run
+
+   # En Windows (CMD o PowerShell):
+   .\mvnw.cmd spring-boot:run
+
+3. Verificación:
+   El servidor backend estará en ejecución en: http://localhost:8080
+================================================================================
