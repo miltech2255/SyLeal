@@ -1,0 +1,5 @@
+Diagrama entidad relacion: https://lucid.app/lucidchart/6f0eaf03-72cb-47b4-93e9-b1d426190707/edit?viewport_loc=-769%2C-384%2C2991%2C1733%2C0_0&invitationId=inv_82c36aee-32b0-45b3-83cc-15e757e49bda
+Componentes: https://lucid.app/lucidchart/4db602ee-d1b9-44b3-bcbc-0daad1466d63/edit?viewport_loc=-1101%2C-144%2C3696%2C2142%2C0_0&invitationId=inv_8658c945-10aa-4ca1-b553-45f1dc8d8efd
+Diagrama de clases: https://lucid.app/lucidchart/0fd9eaf9-dffd-4644-8741-0d0430aa6154/edit?viewport_loc=-1700%2C-600%2C2599%2C1506%2C0_0&invitationId=inv_693ea215-2c42-46c9-a461-5c40eb6e26e3
+Diagrama de casos de uso: https://lucid.app/lucidchart/59f01cd3-58d2-4725-bef1-5f30dd1fddb5/edit?viewport_loc=-4517%2C-1727%2C8000%2C3669%2C0_0&invitationId=inv_499df4ec-d577-4121-95b9-a455d8fc8bb2
+Diagrama de capas: https://lucid.app/lucidchart/b1b64af9-e439-41a5-a075-530d67a5449b/edit?viewport_loc=-503%2C44%2C1637%2C785%2C0_0&invitationId=inv_cfe7a86a-a2dc-4723-90ad-22989f5505d8
